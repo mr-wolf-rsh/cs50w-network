@@ -1,0 +1,9 @@
+html,
+body,
+#react-app {
+    height: 100%;
+}
+
+#react-app {
+    display: flex;
+}

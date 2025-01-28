@@ -2,6 +2,7 @@
 
 A Threads-like social network website for making posts and following users.
 This is [Network](https://cs50.harvard.edu/web/2020/projects/4/network/), which is one of [CS50W projects](https://cs50.harvard.edu/web/2020/projects/).
+
 Check up the rest of them! - [Projects for CS50W](https://github.com/stars/mr-wolf-rsh/lists/cs50w/)
 
 ## Author
